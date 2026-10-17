@@ -42,11 +42,11 @@ if(Input.GetKey(R))
             
             }
         }
-        anim.SetFloat("speed",Mathf.Abs( GetComponent<Rigidbody2D>().velocity.x));
+        //anim.SetFloat("speed",Mathf.Abs( GetComponent<Rigidbody2D>().velocity.x));
 
-anim.SetFloat("Height", GetComponent<Rigidbody2D>().velocity.y);
+//anim.SetFloat("Height", GetComponent<Rigidbody2D>().velocity.y);
 
-anim.SetBool("Grounded", grounded);
+//anim.SetBool("Grounded", grounded);
 
 
         if(Input.GetKeyDown(space)&& grounded){

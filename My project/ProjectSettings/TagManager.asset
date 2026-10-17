@@ -12,7 +12,7 @@ TagManager:
   - Water
   - UI
   - ground
-  - 
+  - 8
   - 
   - 
   - 
@@ -46,4 +46,7 @@ TagManager:
     locked: 0
   - name: New Layer 2
     uniqueID: 3248509715
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3222413827
     locked: 0
