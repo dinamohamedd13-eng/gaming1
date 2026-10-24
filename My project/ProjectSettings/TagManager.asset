@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - New tag
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -49,4 +51,7 @@ TagManager:
     locked: 0
   - name: New Layer 3
     uniqueID: 3222413827
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 538582113
     locked: 0
